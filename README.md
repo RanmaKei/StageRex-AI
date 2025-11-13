@@ -1,2 +1,2 @@
 # StageRex-AI
-AI companion that can assist with VJ tools in the StageForge stack
+AI companion that can interface with VJ tools
